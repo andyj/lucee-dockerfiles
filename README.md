@@ -111,6 +111,11 @@ nginx45 -> $ open http://nginx45.192.168.99.100.xip.io
 nginx50 -> $ open http://nginx50.192.168.99.100.xip.io
 ```
 
+If you are running docker natively you can access the containers at
+```
+lucee45 -> $ open http://localhost:8045/
+lucee50 -> $ open http://localhost:8050/
+```
 
 ## License
 
